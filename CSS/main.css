@@ -471,7 +471,7 @@ div:hover > .icon-container svg {
 
 /* -----------------      Start Contact Section -------------------- */
 #contact {
-  background-color: var(--bg-color);
+  background-color: var(--bg-white);
 }
 
 #contact .icon-container {
